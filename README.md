@@ -448,5 +448,3 @@ uint256 a = 5;
 uint256 b = a.add(3); // 5 + 3 = 8
 uint256 c = a.mul(2); // 5 * 2 = 10
 ```
-
-[Web3JS](https://www.notion.so/Web3JS-8e7e1eccb4ea4f48b9f5b1642fb150f4)
